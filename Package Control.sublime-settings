@@ -1,15 +1,21 @@
 {
-  "installed_packages":
-  [
-    "A File Icon",
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"ColorPicker",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"MagicPython",
+		"Package Control",
+		"SCSS"
+	]
 }
