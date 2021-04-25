@@ -6,10 +6,12 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"ColorPicker",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
+		"MagicPython",
 		"Package Control",
 		"SCSS"
 	]
